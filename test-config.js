@@ -13,7 +13,7 @@ exports.config = {
     maxInstances: 1,
     sync: true,
     specs: [
-        './tes.demo.js'
+        './test.demo.js'
     ],
     capabilities: [{
         "platformName": "Android",
